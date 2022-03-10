@@ -1,0 +1,26 @@
+ .text-block1 {
+margin-left:320px;
+}
+        .text-block {
+margin-left:20px;
+}
+        .text-block2 {
+margin-left:300px;
+}
+        .text-block3 {
+margin-left:150px;
+}
+         .text-block4 {
+margin-left:350px;
+}
+        .text-block5 {
+margin-left:250px;
+}
+        .text-block6 {
+margin-left:100px;
+}
+        
+        body {
+    background: #c7b39b url(alk.png) repeat-x;
+             background-attachment: fixed;
+    color: #fff;}

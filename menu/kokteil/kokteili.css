@@ -1,0 +1,26 @@
+.text-block1 {
+margin-left:270px;
+}
+        .text-block {
+margin-left:230px;
+}
+        .text-block2 {
+margin-left:300px;
+}
+        .text-block3 {
+margin-left:130px;
+}
+         .text-block4 {
+margin-left:350px;
+}
+        .text-block5 {
+margin-left:250px;
+}
+        .text-block6 {
+margin-left:100px;
+}
+        
+        body {
+    background: #c7b39b url(kokteil.png) repeat-x;
+             background-attachment: fixed;
+    color: #fff;}

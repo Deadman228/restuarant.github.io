@@ -1,0 +1,53 @@
+ body {
+    background: #c7b39b url(hon.jpg) repeat-x;
+             background-attachment: fixed;
+    color: #fff;}
+        IMG.fig {
+            float:right;
+                border: 3px solid linear-gradient(to top, #fefcea, #f1da36);
+    padding-left: 10px; /* Отступ слева */
+            padding-bottom: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+   }
+        .module-border-wrap {
+  max-width: 390px;
+                        float:right;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, purple, darkblue);
+  padding: 3px;
+}
+
+.module {
+                float:right;
+  background: #222;
+  color: white;
+  padding: 2rem;
+}
+        IMG.fig2 {
+            float:left;
+                border: 3px solid linear-gradient(to top, #fefcea, #f1da36);
+    padding-left: 10px; /* Отступ слева */
+            padding-bottom: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+   }
+.module-border-wrap1 {
+  max-width: 390px;
+                        float:left;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, darkblue, purple);
+  padding: 3px;
+}
+
+.module1 {
+                float:left;
+  background: #222;
+  color: white;
+  padding: 2rem;
+}
+        a {
+    text-decoration: none; /* Убираем подчёркивание */
+   }

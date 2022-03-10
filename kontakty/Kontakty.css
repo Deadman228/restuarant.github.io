@@ -1,0 +1,36 @@
+IMG.fig {
+    float: right; /* Обтекание картинки по левому краю */
+    padding-left: 700px; /* Отступ слева */
+    padding-bottom: 10px; /* Отступ снизу */}
+        .ramka{
+            display: block;
+            height: 420px;
+            width: 700px;
+            border: #ff0099 solid 15px;
+            border-radius: 15px;
+        }
+        
+        a {
+    text-decoration: none; /* Убираем подчёркивание */
+   }
+         p {
+    margin-left: 10%;
+    margin-right: 40%;
+    margin-top: 2em; /* Отступ сверху */
+    margin-bottom: 2em; /* Отступ снизу */
+   }
+        body {
+    background: #c7b39b url(zaka.png) repeat-x;
+    color: #fff;}
+         table.text  {
+    width:  100%; /* Ширина таблицы */
+    border-spacing: 7px 11px; /* Расстояние между ячейками */
+   }
+   table.text td {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    width: 50%; /* Ширина ячеек */
+    vertical-align: top; /* Выравнивание по верхнему краю */
+     /* Граница вокруг ячеек */
+   }
+   td.rightcol { /* Правая ячейка */ 
+       text-align: left; /* Выравнивание по правому краю */ } 
